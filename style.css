@@ -207,6 +207,7 @@ ol.carousel-indicators {
   margin: 0 auto;
   position: relative;
   top: 50px;
+  justify-content: center;
 }
 .pd_{
   width: 48%;
